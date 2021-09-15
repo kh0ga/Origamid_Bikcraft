@@ -1,7 +1,7 @@
 # Projeto Bikcraft
 
 ### Web Design Completo - Origamid
-Eu desenvonvi esse projeto no curso de Web Design Completo da Origamid onde aprendi conceitos básicos para o desenvolvimento de sites estáticos, institucionais onde não é necessário um sistema no back-end para o funcionamento.
+Eu desenvonvi esse projeto no curso de Web Design Completo da Origamid onde aprendi conceitos básicos de HTML, CSS e Javascript para o desenvolvimento de sites.
 
 ### Aprendi durante o curso
 - HTML e suas principais tags, atributos
